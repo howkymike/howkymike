@@ -8,22 +8,21 @@
 - ⚡️ Fun fact: I have 1st kyu in Jiu-Jitsu
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+  <h3 align="center">Connect with me :two_men_holding_hands:</h3> 
 </div>
 <p align="center" >
 <a href="https://www.linkedin.com/in/michal-jastrzebski/">
   <img align="center"alt="LinkdedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/linkedin.svg" />
-</a><br /> &nbsp;	
+</a> 
 <a href="https://howkymike.github.io/">
   <img align="center" alt="portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/googlechrome.svg" />
-</a><br /> &nbsp;	
+</a> 
 <a href="https://github.com/howkymike">
   <img align="center" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/github.svg" />
-</a> &nbsp;	
+</a>
   <a href="">  <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gmail.svg" />
 </a>
 </p>
-
 <br />
 <br />
 
