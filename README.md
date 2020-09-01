@@ -26,6 +26,7 @@
 </a>
 </p>
 <br />
+<br />
 
 <p align="center" >
 <img src = "https://img.shields.io/badge/-JavaScript-black?logo=javaScript"> <img src = "https://img.shields.io/badge/-HTML5-yellowgreen?logo=html5"> 
