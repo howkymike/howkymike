@@ -12,16 +12,15 @@
 </div>
 <p align="center" >
 <a href="https://www.linkedin.com/in/michal-jastrzebski/">
-  <img align="center" style="padding: 6px;" alt="LinkdedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/linkedin.svg" />
-</a>
-<a href="https://howkymike.github.io/" style="padding: 6px;">
+  <img align="center"alt="LinkdedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/linkedin.svg" />
+</a><br /> &nbsp;	
+<a href="https://howkymike.github.io/">
   <img align="center" alt="portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/googlechrome.svg" />
-</a>
-<a href="https://github.com/howkymike" style="padding: 6px;">
+</a><br /> &nbsp;	
+<a href="https://github.com/howkymike">
   <img align="center" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/github.svg" />
-</a>
-<a href="" style="padding: 6px;">
-  <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gmail.svg" />
+</a> &nbsp;	
+  <a href="">  <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gmail.svg" />
 </a>
 </p>
 
