@@ -1,7 +1,7 @@
 ### Hi there, I'm Mike 👋
 
 - 🏢 I'm a **Fullstack Developer**
-- ⚙️ I use daily: <code>.java</code>, <code>.js</code>, <code>.html</code>, <code>.css</code>, <code>.sh</code>, <code>.psd</code>
+- ⚙️ I use daily: <code>.java</code>, <code>.js</code>, <code>.html</code>, <code>.css</code>, <code>.sh</code>, <code>.py</code>
 - 🌍 I'm mostly active within the **Alfresco Community**
 - 🌱 Learning all about **Open Source** projects
 - 💬 Ping me about **alfresco**, **new projects**, **job offers**, **cooperation**
