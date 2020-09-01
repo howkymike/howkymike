@@ -24,15 +24,13 @@
 </a>
 </p>
 <br />
-<br />
 
 
+<p align="center" >
 <img src = "https://img.shields.io/badge/-JavaScript-black?logo=javaScript"> <img src = "https://img.shields.io/badge/-HTML5-yellowgreen?logo=html5"> 
 <img src = "https://img.shields.io/badge/-NodeJS-blue?logo=node.js"> 
 <img src = "https://img.shields.io/badge/-Java-red?logo=java"> 
 <img src = "https://img.shields.io/badge/-Python-orange?logo=python"> 
-
-
+</p>
 <br />
-
-
+<br />
