@@ -1,11 +1,12 @@
 ### Hi there, I'm Mike 👋
+<img width="400px" align="right" alt="profileGif-thankYouArriminum!" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" />
 
 - 🏢 I'm a **Fullstack Developer**
 - 💼 I study both IT and Cybersecurity
-- ⚙️ I use daily: <code>.java</code>, <code>.js</code>, <code>.html</code>, <code>.css</code>, <code>.sh</code>, <code>.py</code>
+- ⚙️ I use daily: <code>.java</code>, <code>.js</code>, <code>.html</code>,<code>.css</code>, <code>.sh</code>, <code>.py</code>
 - 🌍 I'm mostly active within the **Alfresco Community**
 - 🌱 Learning all about **Open Source** projects
-- 💬 Ping me about **alfresco**, **new projects**, **job offers**, **cooperation**
+- 💬 Ping me about **alfresco**, **new projects**, **job offers**,**cooperation**
 - ⚡️ Fun fact: I have 1st kyu in Jiu-Jitsu
 
 <div align="center">
