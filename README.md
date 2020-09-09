@@ -34,3 +34,5 @@
 <img src = "https://img.shields.io/badge/-Java-red?logo=java"> 
 <img src = "https://img.shields.io/badge/-Python-orange?logo=python"> 
 </p>
+
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
